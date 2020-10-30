@@ -1,0 +1,12 @@
+C:\Users\Evone\source\repos\Queuing\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\Evone\source\repos\Queuing\Queuing\bin\Debug\Queuing.exe
+C:\Users\Evone\source\repos\Queuing\Queuing\bin\Debug\Queuing.pdb
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.csprojAssemblyReference.cache
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.QueuingForm.resources
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.CashierWindowQueue.resources
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.exe
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Evone\source\repos\Queuing\Queuing\obj\Debug\Queuing.ServingForm.resources
